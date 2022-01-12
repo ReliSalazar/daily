@@ -1,0 +1,42 @@
+@import "@/assets/scss/mixins.scss";
+
+$primary: #222;
+$secondary: #eee;
+
+$softGray: #eee;
+$gray: #aaa;
+$darkGray: #555;
+
+$blue: #00acc1;
+$red: #de3c4b;
+$yellow: #ea9010;
+$purple: #81559b;
+$darkBlue: #2e2d4d;
+
+$accent: $blue;
+
+$secondary: $darkGray;
+
+
+.underline-accent {
+  @include underline-permanent($accent);
+}
+.underline-blue {
+  @include underline-permanent($blue);
+}
+.underline-red {
+  @include underline-permanent($red);
+}
+.underline-yellow {
+  @include underline-permanent($yellow);
+}
+.underline-purple {
+  @include underline-permanent($purple);
+}
+.underline-darkBlue {
+  @include underline-permanent($darkBlue);
+}
+.underline-gray {
+  @include underline-permanent($softGray);
+}
+
