@@ -47,7 +47,7 @@ const response = [
   {
     title: "Domingo",
     color: "red",
-    todo: ["Inglés", "Programación", "Lectura", "Dibujo"],
+    todo: ["Anglo", "Programación", "Lectura", "Dibujo"],
   },
   {
     title: "Lunes",
@@ -57,7 +57,7 @@ const response = [
   {
     title: "Martes",
     color: "yellow",
-    todo: ["Inglés", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
+    todo: ["Anglo", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
   },
   {
     title: "Miércoles",
@@ -67,7 +67,7 @@ const response = [
   {
     title: "Jueves",
     color: "red",
-    todo: ["Inglés", "Programación", "Matemáticas", "Ejercicio", "Música"],
+    todo: ["Anglo", "Programación", "Matemáticas", "Ejercicio", "Música"],
   },
   {
     title: "Viernes",
@@ -77,7 +77,7 @@ const response = [
   {
     title: "Sábado",
     color: "yellow",
-    todo: ["Inglés", "Programación", "Lectura", "Música"],
+    todo: ["Anglo", "Programación", "Lectura", "Música"],
   },
 ];
 
