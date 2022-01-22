@@ -47,37 +47,37 @@ const response = [
   {
     title: "Domingo",
     color: "red",
-    todo: ["Anglo", "Programación", "Lectura", "Dibujo"],
+    todo: ["Francés", "Programación", "Lectura", "Dibujo"],
   },
   {
     title: "Lunes",
     color: "purple",
-    todo: ["Francés", "Programación", "Ejercicio", "Música", "Lectura"],
+    todo: ["Alemán", "Programación", "Ejercicio", "Música", "Lectura"],
   },
   {
     title: "Martes",
     color: "yellow",
-    todo: ["Anglo", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
+    todo: ["Francés", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
   },
   {
     title: "Miércoles",
     color: "blue",
-    todo: ["Francés", "Programación", "Matemáticas", "Ejercicio", "Lectura"],
+    todo: ["Alemán", "Programación", "Matemáticas", "Ejercicio", "Lectura"],
   },
   {
     title: "Jueves",
     color: "red",
-    todo: ["Anglo", "Programación", "Matemáticas", "Ejercicio", "Música"],
+    todo: ["Francés", "Programación", "Matemáticas", "Ejercicio", "Música"],
   },
   {
     title: "Viernes",
     color: "purple",
-    todo: ["Francés", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
+    todo: ["Alemán", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
   },
   {
     title: "Sábado",
     color: "yellow",
-    todo: ["Anglo", "Programación", "Lectura", "Música"],
+    todo: ["Francés", "Programación", "Lectura", "Música"],
   },
 ];
 
