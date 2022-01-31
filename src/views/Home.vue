@@ -47,37 +47,37 @@ const response = [
   {
     title: "Domingo",
     color: "red",
-    todo: ["Francés", "Programación", "Lectura", "Dibujo"],
+    todo: ["Idiomas", "Programación", "Lectura", "Dibujo"],
   },
   {
     title: "Lunes",
     color: "purple",
-    todo: ["Alemán", "Programación", "Ejercicio", "Música", "Lectura"],
+    todo: ["Idiomas", "Programación", "Ejercicio", "Música", "Lectura"],
   },
   {
     title: "Martes",
     color: "yellow",
-    todo: ["Francés", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
+    todo: ["Idiomas", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
   },
   {
     title: "Miércoles",
     color: "blue",
-    todo: ["Alemán", "Programación", "Matemáticas", "Ejercicio", "Lectura"],
+    todo: ["Idiomas", "Programación", "Matemáticas", "Ejercicio", "Lectura"],
   },
   {
     title: "Jueves",
     color: "red",
-    todo: ["Francés", "Programación", "Matemáticas", "Ejercicio", "Música"],
+    todo: ["Idiomas", "Programación", "Matemáticas", "Ejercicio", "Música"],
   },
   {
     title: "Viernes",
     color: "purple",
-    todo: ["Alemán", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
+    todo: ["Idiomas", "Programación", "Matemáticas", "Ejercicio", "Dibujo"],
   },
   {
     title: "Sábado",
     color: "yellow",
-    todo: ["Francés", "Programación", "Lectura", "Música"],
+    todo: ["Idiomas", "Programación", "Lectura", "Música"],
   },
 ];
 
